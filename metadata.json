@@ -1,0 +1,6 @@
+{
+  "name": "Apex Turismo 4",
+  "description": "Simulador de corrida 3D estilo Simcade inspirado em Gran Turismo 4 com física de transferência de peso, concessionária, oficina de tuning, centro de licenças e áudio procedural.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
